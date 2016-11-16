@@ -1,3 +1,3 @@
 # MyFirstRepo
 Training
-This is a repo to demonstrate github 
+This is a repo to demonstrate Feature1
